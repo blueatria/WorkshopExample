@@ -22,3 +22,4 @@ To use this framework you will need to:
 5. Update the codacy badge in this readme because it uses more than username/repo (get the badge from codacy project settings).
 6. Set an environment variable in travis called GITHUB_API_KEY with a Personal Access Token to commit Sphinx html to public repos.
 7. Pointless change.
+8. Another change.
